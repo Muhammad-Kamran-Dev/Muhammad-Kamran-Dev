@@ -46,15 +46,15 @@
 <br/>
 
 ## Github Stats
-<div> 
-  <div> <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Kamran-Dev&show_icons=true&count_private=true&hide_border=true" align="left"/></div>
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Kamran-Dev&hide_border=true&layout=compact" align="right"/></div>
+<div > 
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Kamran-Dev&show_icons=true&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Kamran-Dev&hide_border=true&layout=compact" align="right" style="margin-top: 25px;"/>
 </div>
 <br/>    
 <br/>  
 
   ## Connect with me  
-<div align="center">
+<div align="justify">
 <a href="https://github.com/Muhammad-Kamran-Dev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
