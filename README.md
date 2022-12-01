@@ -47,8 +47,7 @@
 
 ## Github Stats
 <div > 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Kamran-Dev&show_icons=true&count_private=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Kamran-Dev&hide_border=true&layout=compact" align="right" style="margin-top: 25px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Kamran-Dev&hide_border=true&layout=compact" align="center"/>
 </div>
 <br/>    
 <br/>  
