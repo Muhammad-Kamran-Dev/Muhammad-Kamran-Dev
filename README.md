@@ -46,8 +46,8 @@
 <br/>
 
 ## Github Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Kamran-Dev&show_icons=true&count_private=true&hide_border=true" align="right" />
+<div align="justify">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Kamran-Dev&show_icons=true&count_private=true&hide_border=true"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Kamran-Dev&hide_border=true&layout=compact" />
 </div> 
 <br/>    
