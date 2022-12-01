@@ -12,6 +12,7 @@
 </div> 
 </div>
 
+<br/>
 <div>
   <h3> 💻 Tech Stack </h3>
   <p>
@@ -44,17 +45,34 @@
 
 <br/>
 
-<a href="https://github.com/Muhammad-Kamran-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Kamran-Dev&theme=transparent&show_icons=true" />
+## Github Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Kamran-Dev&show_icons=true&count_private=true&hide_border=true" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Kamran-Dev&hide_border=true&layout=compact" />
+</div> 
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+
+ ## Connect with me  
+<div align="center">
+<a href="https://github.com/Muhammad-Kamran-Dev" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://twitter.com/MKamran10814899" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/kamran92" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/muhammad-kamran-a17b231b6" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@Muhammad-Kamran-Dev" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-<br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/muhammad-kamran-a17b231b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
+  
