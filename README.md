@@ -1,28 +1,60 @@
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
-<h1 align="center">Hi 👋, I'm Muhammad Kamran</h1>
-<h3 align="center">A Passionate Frontend Developer From Pakistan</h3>
-<img align="right" alt="Programming" width="400" src="https://thumbs.gfycat.com/HastyAntiqueBetafish-max-1mb.gif">
+<h1 align="center">Hey there! I'm Muhammad Kamran 👋 </h1>
+<h3 align="center">🚀 Frontend Developer | MERN Stack | Open Source 🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
+  - 🤔 &nbsp; Exploring new Technologies and Developing Software Solutions.
+  - 🎓 &nbsp; Graduted from University of Peshawar.
+  - 💼 &nbsp; I’m currently working on Full Stack Development Projects.
+  - 🌱 &nbsp; Learning more about Backend and Frontend Developement.
+</div> 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-kamran-dev&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-kamran-dev" /> </p>
+<div>
+  <h3> 💻 Tech Stack </h3>
+  <p>
+ 
+- 💻 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-the-badge&logo=tailwind-css&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-the-badge&logo=PyCharm&logoColor=white)
+- 🖥 &nbsp;
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-the-badge&logo=figma&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+<br/>
+  <p>
+</div> 
 
-<p align="left"> <a href="https://twitter.com/mkamran10814899" target="blank"><img src="https://img.shields.io/twitter/follow/mkamran10814899?logo=twitter&style=for-the-badge" alt="mkamran10814899" /></a> </p>
+<br/>
 
-- 💬 Ask me about **MERN Stack**
+<a href="https://github.com/Muhammad-Kamran-Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Kamran-Dev&theme=transparent&show_icons=true" />
+</a>
 
-- 📫 How to reach me **Kamran8915uop@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mkamran10814899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkamran10814899" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-kamran-a17b231b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-kamran-a17b231b6" height="30" width="40" /></a>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/muhammad-kamran-a17b231b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-kamran-dev&show_icons=true&locale=en&layout=compact" alt="muhammad-kamran-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-kamran-dev&show_icons=true&locale=en" alt="muhammad-kamran-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-kamran-dev&" alt="muhammad-kamran-dev" /></p>
