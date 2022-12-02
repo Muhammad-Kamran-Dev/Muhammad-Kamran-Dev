@@ -19,10 +19,7 @@
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-the-badge&logo=tailwind-css&logoColor=white)
@@ -35,10 +32,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-the-badge&logo=PyCharm&logoColor=white)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-the-badge&logo=figma&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <br/>
   <p>
 </div> 
