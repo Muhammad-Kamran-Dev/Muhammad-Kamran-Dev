@@ -1,5 +1,6 @@
 <h1 align="center">Hey there! I'm Muhammad Kamran 👋 </h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack | Open Source 🚀</h3>
+<h3 align="center">🚀 Frontend Developer | MERN Stack | Open Source </h3>
+<br/>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
@@ -37,7 +38,6 @@
   <p>
 </div> 
 
-<br/>
 
 ## Github Stats
 <div > 
