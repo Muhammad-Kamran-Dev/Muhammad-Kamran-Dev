@@ -7,7 +7,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
   - 🤔 &nbsp; Exploring new Technologies and Developing Software Solutions.
   - 🎓 &nbsp; Graduted from University of Peshawar.
-  - 💼 &nbsp; I’m currently working on Full Stack Development Projects.
+  - 💼 &nbsp; I’m currently working on Front-End Projects.
   - 🌱 &nbsp; Learning more about Backend and Frontend Developement.
 </div> 
 </div>
