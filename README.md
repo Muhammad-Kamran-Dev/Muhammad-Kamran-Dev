@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Frontend Developer | MERN Stack | Open Source </h3>
 <br/>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="[https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png](https://i.ibb.co/F0RgVn1/Group-1.png)" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   - 🤔 &nbsp; Exploring new Technologies and Developing Software Solutions.
