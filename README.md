@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Muhammad Kamran 👋 </h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack | Open Source </h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Open Source </h3>
 <br/>
 <div>
 <!-- <img width = "35%" align="right" alt="PIC" height="300px" src="https://i.ibb.co/F0RgVn1/Group-1.png" /> -->
