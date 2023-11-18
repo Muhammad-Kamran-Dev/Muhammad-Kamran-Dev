@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Muhammad Kamran 👋 </h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack | Open Source </h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Open Source </h3>
 <br/>
 <div>
 <!-- <img width = "35%" align="right" alt="PIC" height="300px" src="https://i.ibb.co/F0RgVn1/Group-1.png" /> -->
@@ -18,15 +18,17 @@
 <div>
   <h3> 💻 Tech Stack </h3>
   <p>
- 
 - 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript]( https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)     
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-the-badge&logo=tailwind-css&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Next.js]([https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
+
+    
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL]([https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white))        
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
