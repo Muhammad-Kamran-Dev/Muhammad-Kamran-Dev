@@ -20,13 +20,16 @@
   <p>
  
 - 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label)
+
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=?style=flat&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-the-badge&logo=tailwind-css&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
